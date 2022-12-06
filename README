@@ -1,0 +1,34 @@
+## Creating a Project Site
+
+In this activity, you will create a new GitHub repository for a webpage that tells a story, or describes or summarizes an analysis from one of your assignments or project.
+
+## Instructions
+
+* Create a basic webpage based on one of your homework assignments (e.g., Matplotlib, Python APIs, or advanced data storage) or your project.
+
+* Your `index.html` file should contain the following:
+
+    * A header for the title of the webpage.
+
+    * A short paragraph describing the purpose of the chosen assignment or project.
+
+    * Tables or images from the analysis along with a short description or summary of the tables or images.
+
+* Once you have created your HTML, add, commit, and push your files to GitHub.
+
+* To ensure that your project page is live, follow these instructions:
+
+  * On GitHub, navigate into your repository's **Settings** tab.
+
+  * Scroll down to the “Pages” section, and then, in the section labeled Source, select that you would like to use the main branch as your source.
+
+  * Navigate to `_username_.github.io/_repositoryname_`, and you will find that your new webpage has gone live.
+
+
+## Bonus
+
+* Create a navigation system that links from your personal website to this new project site and vice-versa.
+
+* Create a portfolio that can be used to show off all of the work you have done in the past.
+
+- - -
